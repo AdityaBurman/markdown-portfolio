@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Hi there
+## I am Aditya Burman
+### A Full Stack Developer
